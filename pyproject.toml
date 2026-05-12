@@ -1,0 +1,11 @@
+[project]
+name = "info-nas"
+version = "0.1.0"
+description = "Zero-Cost Proxy for ViT Architecture Search"
+readme = "README.md"
+requires-python = ">=3.10"
+dependencies = [
+    "numpy",
+    "scipy",
+    "matplotlib",
+]
